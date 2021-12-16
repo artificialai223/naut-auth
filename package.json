@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A module to interact with the nautauth.xyz API",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artificialai223/naut-auth.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
