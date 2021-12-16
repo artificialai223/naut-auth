@@ -1,0 +1,14 @@
+{
+  "name": "naut-auth",
+  "version": "1.0.0",
+  "description": "A module to interact with the nautauth.xyz API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "artificialai223",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.6"
+  }
+}
